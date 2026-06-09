@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Oi, sou Yuki 😃</h1>
-  <h3>Web Dev Frontend por hobby</h3>
+  <h3>Web Dev por hobby</h3>
 </div>
 
 ---
